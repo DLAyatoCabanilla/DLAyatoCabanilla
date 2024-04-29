@@ -1,4 +1,4 @@
-(https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif)
+https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif
 <h1 align="center">Hi, I am Dan Lloyd "Ayatio" Cabanilla</h3>
 <h3 align="center">A passionate student taking the Computer Science Course on New Era University</h3>
 
