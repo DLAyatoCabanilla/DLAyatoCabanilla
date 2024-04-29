@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dan Lloyd "Ayato" Cabanilla</h1>
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (DL Aya(111|to Cabanilla)|https://DLAyatoCabanilla)" title="👋 Hi there! I'm (DL Aya(111|to Cabanilla)|https://DLAyatoCabanilla)"/>](https://raymond.li/)
 <h3 align="center">A passionate student taking the Computer Science Course on New Era University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dlayatocabanilla&label=Profile%20views&color=0e75b6&style=flat" alt="dlayatocabanilla" /> </p>
