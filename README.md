@@ -30,7 +30,7 @@
     </thead>
     <tbody>
         <tr>
-            <td><a href="(https://www.freecodecamp.org/certification/fcc6b73ad84-c57c-4196-9b54-23b944f08b1f/responsive-web-design)">Responsive Web Design</a></td>
+            <td><a href="https://www.freecodecamp.org/certification/fcc6b73ad84-c57c-4196-9b54-23b944f08b1f/responsive-web-design">Responsive Web Design</a></td>
             <td>freeCodeCamp</td>
             <td>April 29, 2024</td>
         </tr>
