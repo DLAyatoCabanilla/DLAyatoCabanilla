@@ -40,7 +40,7 @@
             <td>April 29, 2024</td>
         </tr>
         <tr>
-            <td><a href="[https://www.hackerrank.com/certificates/0216521857f7]">Problem Solving (Basic)</a></td>
+            <td><a href="https://www.hackerrank.com/certificates/0216521857f7">Problem Solving (Basic)</a></td>
             <td>HackerRank</td>
             <td>April 29, 2024</td>
         </tr>
