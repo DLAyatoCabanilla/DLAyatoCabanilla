@@ -1,6 +1,6 @@
 ![image](https://github.com/DLAyatoCabanilla/DLAyatoCabanilla/assets/139518282/1c1b3cd4-5267-49ae-af18-9a497be3436d)
 
-<h1 align="center">Hi, I am Dan Lloyd "Ayatio" Cabanilla</h3>
+<h1 align="center">Hi, I am Dan Lloyd "Ayato" Cabanilla</h3>
 <h3 align="center">A passionate student taking the Computer Science Course on New Era University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dlayatocabanilla&label=Profile%20views&color=0e75b6&style=flat" alt="dlayatocabanilla" /> </p>
