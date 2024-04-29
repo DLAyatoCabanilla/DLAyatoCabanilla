@@ -46,6 +46,11 @@
             <td>HackerRank</td>
             <td>April 29, 2024</td>
         </tr>
+         <tr>
+            <td><a href="https://analytics.google.com/analytics/academy/certificate/iGl9AWkiQDGtl0jcjGJy4Q">Google Analytics for Beginners</a></td>
+            <td>Google</td>
+            <td>April 30, 2024</td>
+        </tr>
         <!-- Add more rows for additional certificates -->
     </tbody>
 </table>
