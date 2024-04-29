@@ -35,9 +35,14 @@
             <td>April 29, 2024</td>
         </tr>
         <tr>
-            <td><a href="link_to_certificate_2">Certificate 2</a></td>
-            <td>Issuer 2</td>
-            <td>Date 2</td>
+            <td><a href="https://www.hackerrank.com/certificates/0216521857f7">Python (Basic)</a></td>
+            <td>HackerRank</td>
+            <td>April 29, 2024</td>
+        </tr>
+        <tr>
+            <td><a href="[https://www.hackerrank.com/certificates/0216521857f7]">Problem Solving (Basic)</a></td>
+            <td>HackerRank</td>
+            <td>April 29, 2024</td>
         </tr>
         <!-- Add more rows for additional certificates -->
     </tbody>
