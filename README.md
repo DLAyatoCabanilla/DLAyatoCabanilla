@@ -1,4 +1,4 @@
-C:\Users\NEU\Downloads\coding.gif
+[C:\Users\NEU\Downloads\coding.gif](https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif)
 
 <h1 align="center">Hi, I am Dan Lloyd "Ayato" Cabanilla</h3>
 <h3 align="center">A passionate student taking the Computer Science Course on New Era University</h3>
