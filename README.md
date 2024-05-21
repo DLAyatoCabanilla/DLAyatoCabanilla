@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dlayatocabanilla" alt="dlayatocabanilla" /></a> </p>
 
-- 🔭 I’m currently working on **E-Commerce and 100 days Python Programming Challenge**
+- 🔭 I’m currently working on **Machine Learning**
 
 - ⚡ Fun fact **I think I am funny**
 
