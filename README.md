@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dlayatocabanilla" alt="dlayatocabanilla" /></a> </p>
 
 - 🔭 I’m currently working on **Machine Learning**
-
+- Currently getting back to Python 100 Days Challenge
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
