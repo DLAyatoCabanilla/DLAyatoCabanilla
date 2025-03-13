@@ -53,7 +53,7 @@
             <td>April 30, 2024</td>
         </tr>
          <tr>
-            <td><a href="https://analytics.google.com/analytics/academy/certificate/iGl9AWkiQDGtl0jcjGJy4Q](https://www.udemy.com/certificate/UC-5d48e993-0caa-4cbf-91c7-ddf4a35094fc">Java Masterclass 2025</a></td>
+            <td><a href="ude.my/UC-5d48e993-0caa-4cbf-91c7-ddf4a35094fc/">Java Masterclass 2025</a></td>
             <td>Udemy</td>
             <td>March 14, 2025</td>
         </tr>
